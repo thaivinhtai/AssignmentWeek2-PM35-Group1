@@ -12,7 +12,7 @@
 2. [clip phỏng vấn anh Sơn](https://www.youtube.com/watch?v=oAlJnv-vwrw&t=12s)
 
 ## **Business summary**
-[Business summar](./BusinessSummaryTinder.docx)
+[Business summary](./BusinessSummaryTinder.docx)
 
 ## **Insight**
 [Insight](./Insight.docx)
